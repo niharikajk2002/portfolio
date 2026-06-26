@@ -1,30 +1,128 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Niharika Janardhan Konduru – Portfolio
 
+Welcome to my personal portfolio website! This portfolio showcases my education, technical skills, work experience, projects, certifications, and contact information.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+🔗 **Live Website:**
+**https://niharikajk2002.github.io/portfolio/**
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## 👩‍💻 About Me
 
-AJ
-aj@lkn.io | @ajlkn
+I'm a **Data Engineer**, **Cloud Engineer**, and **Machine Learning Engineer** with a Master's degree in Computer Science from **Florida Atlantic University**.
 
+I enjoy designing scalable cloud-native solutions, building data pipelines, working with Google Cloud Platform (GCP) and AWS, and applying machine learning to solve real-world problems.
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🚀 Features
 
-	Icons:
-		Font Awesome (fontawesome.io)
+* Modern responsive portfolio design
+* Interactive single-page navigation
+* Education timeline
+* Technical skills showcase
+* Professional work experience
+* Featured projects with GitHub links
+* Certifications section
+* Contact information
+* Resume download
+* Mobile-friendly design
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Design
+
+* Responsive Layout
+* CSS Grid
+* Flexbox
+* Font Awesome Icons
+
+### Tools
+
+* Git
+* GitHub
+* GitHub Pages
+* Visual Studio Code
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 AWS Serverless To-Do Application
+
+* AWS Lambda
+* API Gateway
+* DynamoDB
+* Amazon S3
+* CloudFront
+
+### 📊 E-Commerce Data Engineering Pipeline
+
+* Google Cloud Storage
+* BigQuery
+* SQL
+* ETL
+* Parquet
+
+### 🤖 Prompt Engineering for Requirement Analysis
+
+* Generative AI
+* NLP
+* Python
+
+### 🩺 Chronic Disease Prediction
+
+* Python
+* Streamlit
+* Scikit-Learn
+* Pandas
+* NumPy
+
+---
+
+## ☁️ Certifications
+
+* Google Cloud Core Infrastructure
+* Build Data Lakes & Data Warehouses on Google Cloud
+* NPTEL – Python for Data Science
+* DevHacks 1.0 National Level Symposium
+
+---
+
+## 📫 Contact
+
+📍 San Jose, California, USA
+
+📧 Email: **[nihajk2002@gmail.com](mailto:nihajk2002@gmail.com)**
+
+💼 LinkedIn
+https://www.linkedin.com/in/niharika-janardhan-konduru/
+
+💻 GitHub
+https://github.com/niharikajk2002
+
+---
+
+## 📄 Resume
+
+A downloadable copy of my latest resume is available directly from the portfolio website.
+
+---
+
+## 🌍 Live Portfolio
+
+👉 **https://niharikajk2002.github.io/portfolio/**
+
+---
+
+© 2026 Niharika Janardhan Konduru
+
+Built with HTML • CSS • JavaScript
