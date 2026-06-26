@@ -6,7 +6,6 @@ Welcome to my personal portfolio website! This portfolio showcases my education,
 **https://niharikajk2002.github.io/portfolio/**
 
 ---
-
 ## 👩‍💻 About Me
 
 I'm a **Data Engineer**, **Cloud Engineer**, and **Machine Learning Engineer** with a Master's degree in Computer Science from **Florida Atlantic University**.
